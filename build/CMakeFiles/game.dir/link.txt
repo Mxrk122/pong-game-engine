@@ -1,0 +1,1 @@
+/usr/bin/c++  -pg -g CMakeFiles/game.dir/src/main.cpp.o -o game  -L/usr/lib/x86_64-linux-gnu  -lSDL2 

@@ -1,0 +1,3 @@
+/mnt/c/Users/Mark/Documents/Universidad/Game Engine/pong/gea-2024-bhg/build/CMakeFiles/game.dir
+/mnt/c/Users/Mark/Documents/Universidad/Game Engine/pong/gea-2024-bhg/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Mark/Documents/Universidad/Game Engine/pong/gea-2024-bhg/build/CMakeFiles/rebuild_cache.dir

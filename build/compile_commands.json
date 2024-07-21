@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/mnt/c/Users/Mark/Documents/Universidad/Game Engine/pong/gea-2024-bhg/build",
+  "command": "/usr/bin/c++  -I/usr/include/SDL2  -pg -g -std=gnu++23 -o CMakeFiles/game.dir/src/main.cpp.o -c \"/mnt/c/Users/Mark/Documents/Universidad/Game Engine/pong/gea-2024-bhg/src/main.cpp\"",
+  "file": "/mnt/c/Users/Mark/Documents/Universidad/Game Engine/pong/gea-2024-bhg/src/main.cpp"
+}
+]
